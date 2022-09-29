@@ -16,7 +16,7 @@ function MainApp(props) {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Build date: {getBuildDate(packageJson.buildDate)} changes</p>
+        <p>Build date: {getBuildDate(packageJson.buildDate)} cha</p>
       </header>
     </div>
   );
